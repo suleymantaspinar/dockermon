@@ -1,0 +1,25 @@
+{
+  "name": "dockermon",
+  "version": "0.0.1",
+  "description": "Dockermon is a simple CLI tool for running node js applications in a docker container with a hot reload.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suleymantaspinar/dockermon.git"
+  },
+  "keywords": [
+    "docker",
+    "nodemon",
+    "hot-reload",
+    "dockerize"
+  ],
+  "author": "Suleyman Taspinar",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/suleymantaspinar/dockermon/issues"
+  },
+  "homepage": "https://github.com/suleymantaspinar/dockermon#readme"
+}
